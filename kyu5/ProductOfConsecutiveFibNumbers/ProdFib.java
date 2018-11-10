@@ -1,11 +1,3 @@
-package codewarsSolutions.kyu5.ProductOfConsecutiveFibNumbers;
-
-/**
- * untitled
- * <p>
- * Created by Eric Ramírez Santis on 09-11-2018.
- * Github Account: https://github.com/EricRamirezS
- */
 public class ProdFib {
 
 	public static long[] productFib(long prod) {

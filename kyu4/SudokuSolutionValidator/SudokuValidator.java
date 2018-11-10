@@ -1,5 +1,3 @@
-package codewarsSolutions.kyu4.SudokuSolutionValidator;
-
 import java.util.SortedSet;
 import java.util.TreeSet;
 

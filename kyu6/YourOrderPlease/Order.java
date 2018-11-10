@@ -1,11 +1,3 @@
-package codewarsSolutions.kyu6.YourOrderPlease;
-
-/**
- * codewars
- * <p>
- * Created by Eric Ramírez Santis on 09-11-2018.
- * Github Account: https://github.com/EricRamirezS
- */
 public class Order {
 	public static String order(String words) {
 		String[] unsortedWords = words.split(" ");

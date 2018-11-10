@@ -1,11 +1,3 @@
-package codewarsSolutions.kyu6.BouncingBalls;
-
-/**
- * untitled
- * <p>
- * Created by Eric Ramírez Santis on 09-11-2018.
- * Github Account: https://github.com/EricRamirezS
- */
 public class BouncingBall {
 
 	public static int bouncingBall(double h, double bounce, double window) {

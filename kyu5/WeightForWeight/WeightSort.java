@@ -2,12 +2,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * codewars
- * <p>
- * Created by Eric Ramírez Santis on 08-11-2018.
- * Github Account: https://github.com/EricRamirezS
- */
 public class WeightSort {
 
 	public static String orderWeight(String strng) {

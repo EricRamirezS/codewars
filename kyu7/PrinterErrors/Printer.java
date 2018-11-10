@@ -1,14 +1,6 @@
-package codewarsSolutions.kyu7.PrinterErrors;
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * untitled
- * <p>
- * Created by Eric Ramírez Santis on 09-11-2018.
- * Github Account: https://github.com/EricRamirezS
- */
 public class Printer {
 
 	public static String printerError(String s) {

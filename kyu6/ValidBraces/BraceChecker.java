@@ -1,11 +1,3 @@
-package codewarsSolutions.kyu6.ValidBraces;
-
-/**
- * codewars
- * <p>
- * Created by Eric Ramírez Santis on 09-11-2018.
- * Github Account: https://github.com/EricRamirezS
- */
 import java.util.ArrayList;
 
 public class BraceChecker {

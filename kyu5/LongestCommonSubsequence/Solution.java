@@ -1,9 +1,3 @@
-/**
- * codewars
- * <p>
- * Created by Eric Ramírez Santis on 08-11-2018.
- * Github Account: https://github.com/EricRamirezS
- */
 public class Solution {
 
 	public static String lcs(String x, String y) {
