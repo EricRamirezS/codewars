@@ -5,7 +5,7 @@ https://www.codewars.com/kata/alphabet-war-wo-lo-loooooo-priests-join-the-war/
 There is a war and nobody knows - the alphabet war!  
 There are two groups of hostile letters. The tension between left side letters and right side letters was too high and the war began. The letters have discovered a new unit - a priest with Wo lo looooooo power.
 
-<img src="http://img04.bgstatic-com.de/images/documents/documents/3236/modulecontent/612x0/en_top5_quote_aoe.jpg"/>
+<img src="https://i.imgur.com/AUaPiip.jpg"/>
 
 # Task
 
