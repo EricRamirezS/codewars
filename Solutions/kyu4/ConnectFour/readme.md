@@ -1,6 +1,6 @@
 https://www.codewars.com/kata/56882731514ec3ec3d000009/
 
-#Connect Four
+# Connect Four
 
 Take a look at wiki description of Connect Four game:
 
