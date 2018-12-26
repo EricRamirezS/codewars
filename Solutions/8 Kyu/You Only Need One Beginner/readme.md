@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/57cc975ed542d3148f00015b
+[![Try it](https://raw.githubusercontent.com/EricRamirezS/codewars/master/etc/tryme.png)](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
 
 You will be given an array `a` and a value `x`. All you need to do is check whether the provided array contains the value.
 

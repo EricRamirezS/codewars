@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/how-many-numbers-iii/
+[![Try it](https://raw.githubusercontent.com/EricRamirezS/codewars/master/etc/tryme.png)](https://www.codewars.com/kata/how-many-numbers-iii/)
 
 We want to generate all the numbers of three digits that:
 

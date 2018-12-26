@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/594a6133704e4daf5d00003d/
+[![Try it](https://raw.githubusercontent.com/EricRamirezS/codewars/master/etc/tryme.png)](https://www.codewars.com/kata/594a6133704e4daf5d00003d/)
 
 Given the following table 'decimals':
 

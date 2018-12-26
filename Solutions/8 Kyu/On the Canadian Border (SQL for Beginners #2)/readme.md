@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/on-the-canadian-border-sql-for-beginners-number-2/
+[![Try it](https://raw.githubusercontent.com/EricRamirezS/codewars/master/etc/tryme.png)](https://www.codewars.com/kata/on-the-canadian-border-sql-for-beginners-number-2/)
 
 You are a border guard sitting on the Canadian border. You were given a list of travelers who have arrived at your gate today. You know that American, Mexican, and Canadian citizens don't need visas, so they can just continue their trips. You don't need to check their passports for visas! You only need to check the passports of citizens of all other countries!
 

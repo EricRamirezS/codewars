@@ -1,4 +1,5 @@
-https://www.codewars.com/kata/56882731514ec3ec3d000009/
+
+[![Try it](https://raw.githubusercontent.com/EricRamirezS/codewars/master/etc/tryme.png)](https://www.codewars.com/kata/56882731514ec3ec3d000009/)
 
 # Connect Four
 

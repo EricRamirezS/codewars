@@ -1,4 +1,5 @@
-https://www.codewars.com/kata/sum-by-factors/
+
+[![Try it](https://raw.githubusercontent.com/EricRamirezS/codewars/master/etc/tryme.png)](https://www.codewars.com/kata/sum-by-factors/)
 
 Given an array of positive or negative integers
 

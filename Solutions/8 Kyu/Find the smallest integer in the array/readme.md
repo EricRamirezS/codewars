@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/find-the-smallest-integer-in-the-array/
+[![Try it](https://raw.githubusercontent.com/EricRamirezS/codewars/master/etc/tryme.png)](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array/)
 
 Given an array of integers your solution should find the smallest integer.
 
