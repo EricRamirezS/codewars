@@ -1,6 +1,7 @@
 # 2 Kyu
 
-2 kyu kata represent a proficient programming level. At this level kata require a mature understanding of complex programming concepts - concepts such as:
+2 kyu kata represent a proficient programming level. At this level kata require a mature understanding of complex
+programming concepts - concepts such as:
 
 * Complex AI/machine learning algorithms
 * Reverse engineering techniques
